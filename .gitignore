@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.env
+venv/
+data/raw/
+__pychache__/
+.DS_Store
+*.pyc
