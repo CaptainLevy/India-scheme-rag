@@ -16,7 +16,7 @@ CHUNKS_DATA_PATH = "./data/chunks"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 #Groq LLM
-GROQ_MODEL = "llama3-8b-8192"
+GROQ_MODEL = "llama-3.1-8b-instant"
 
 #Chunking
 CHUNK_SIZE = 500
