@@ -50,7 +50,7 @@ def extract_all_pdfs():
                 f.write(text)
             success += 1
         else:
-            failesd += 1
+            failed += 1
 
     print(f"\n✅ Successfully extracted: {success} PDFs.")
     print(f"❌ Failed/Empty: {failed} PDFs.")
