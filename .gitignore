@@ -211,7 +211,7 @@ data/raw/
 __pychache__/
 .DS_Store
 *.pyc
-data/chroma_db/
-data/raw/
+#data/chroma_db/
+#data/raw/
 data/processed/
-data/chunks/
+#data/chunks/
